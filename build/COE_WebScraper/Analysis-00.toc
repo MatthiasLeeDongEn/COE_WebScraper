@@ -1,0 +1,1537 @@
+(['C:\\Users\\Orange Cars\\Desktop\\COE Web Scraper\\COE_WebScraper caa '
+  '200121\\COE_WebScraper.py'],
+ ['C:\\Users\\Orange Cars\\Desktop\\COE Web Scraper\\COE_WebScraper caa 200121',
+  'C:\\Users\\Orange Cars\\Desktop\\COE Web Scraper\\COE_WebScraper caa '
+  '200121'],
+ ['codecs'],
+ ['c:\\users\\orange '
+  'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'c:\\users\\orange '
+  'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'c:\\users\\orange '
+  'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'c:\\users\\orange '
+  'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'c:\\users\\orange '
+  'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ [],
+ [],
+ False,
+ False,
+ '3.9.0 (tags/v3.9.0:9cf6752, Oct  5 2020, 15:34:40) [MSC v.1927 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_multiprocessing',
+   'C:\\Users\\Orange '
+   'Cars\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_certifi',
+   'C:\\Users\\Orange '
+   'Cars\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_certifi.py',
+   'PYSOURCE'),
+  ('COE_WebScraper',
+   'C:\\Users\\Orange Cars\\Desktop\\COE Web Scraper\\COE_WebScraper caa '
+   '200121\\COE_WebScraper.py',
+   'PYSOURCE')],
+ [('ssl',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\token.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\os.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('schedule',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\schedule\\__init__.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('bs4',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('lxml',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\_markupbase.py',
+   'PYMODULE')],
+ [('python39.dll',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\python39.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('_decimal',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('lxml.etree',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\etree.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml._elementpath',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\_elementpath.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('libffi-7.dll',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\DLLs\\libssl-1_1.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\Users\\Orange Cars\\Desktop\\COE Web Scraper\\COE_WebScraper caa '
+   '200121\\build\\COE_WebScraper\\base_library.zip',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\Include\\pyconfig.h',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'c:\\users\\orange '
+   'cars\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA')],
+ [])
